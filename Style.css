@@ -1,0 +1,149 @@
+body{
+    
+    margin: 0;
+    background-color: rgb(43, 41, 41);
+}header{
+    display: flex;
+    align-items: end;
+    
+    justify-content: space-between;
+    border: #ffff 2px solid;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(25, 23, 23);
+    
+
+}header nav{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+
+    border: #ffff 2px solid;
+    width: 800px;
+    height: 50px;
+    margin-right: 190px;
+    padding: 0 40px;
+    
+    
+}header nav a{
+    border: #ffff 2px solid;
+    margin:10px 30px;
+    
+
+    
+
+}.img{
+    text-decoration: none;
+    color: bisque;
+}
+
+#logo{
+    display: flex;
+    border: #ffff 2px solid;
+    margin:10px 20px;
+    margin-bottom:30px;
+    margin-left: 100px;
+    height:50px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+
+}header #logo a{
+    border: #ffffff 2px solid;
+    margin:10px 30px;
+    height:20px;
+
+}   
+#LoginLogo{
+    text-decoration: none;
+    color: azure;
+
+}
+main{
+    display: flex;
+    justify-content: center;
+
+   
+    height: 900px;
+    width: 100%;
+}
+#postPage{
+    border: #ffff 2px solid;
+    height: 600px;
+    width: 600px;
+    background-color: #322222;
+
+}#creatortab{
+
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    border: #da0f20 2px solid;
+    height: 75px;
+  
+
+    width: 100%;
+}
+#creatorProfileIcon{
+ 
+    border: #b64a6a 2px solid;
+    width:auto;
+    height: auto;
+}#creatorProfileIcon img{
+    
+
+    border-radius: 50%;
+     border: #ffff 2px solid;
+     width: 50px;
+     height: 50px;
+     display: block;
+    
+}#creatorNameIcon{
+    height: auto;
+    width: auto;
+    border: #b64a6a 2px solid;
+    color: #ffff;
+  
+    text-decoration: none;
+
+}#tabRightSide{
+
+    display: flex;
+    align-items: center;
+     border: #1f0a54 2px solid;
+     width: 200px;
+     height: 100%;
+    
+    
+}#tabLeftSide{
+    display: flex;
+    border: #7e9e88 2px solid;
+    height: 20px;
+    width: 50px;
+    margin-bottom: 35px;
+    padding: 10px;
+   
+   
+    
+    
+    
+}#tabLeftSide button:hover{
+    color: #ff4d4d;
+
+}.btn{
+    width: 20px;
+    margin:0 5px;
+   
+}#MainPost{
+    background-color: #c37272;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #7210b8 2px solid;
+    width: 600px;
+    height: 520px;
+    color: rgb(0, 0, 0);
+
+}
+
