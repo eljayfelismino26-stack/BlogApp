@@ -1,0 +1,55 @@
+Body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    width: 100%;
+    height: 900px;
+    background-color: black;
+}
+form{
+     text-align: center;
+    border: 2px #370b0b solid;
+    background-color: #2e1e1e;
+    width: 400px;
+    height: 300px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    border-radius: 25px;
+}.btn{
+    border-radius: 10px;
+    margin: 10px 10px;
+
+}#forgetPass{
+    display: inline-block;
+    
+    text-decoration: none;
+    margin: 20px 20px;
+    color: antiquewhite;
+    margin-top: 5px;
+
+   
+}#Button{
+    border-radius: 10px;
+    color: #120f12;
+    width: 100px;
+    height: 25px;
+}#LogIntext{
+    font-size: 30px;
+}p{
+
+    display: inline-block;
+    font-size: 30px;
+   
+    margin-bottom: 5px;
+    
+}#SignUP{
+    display: inline-block;
+   
+    text-decoration: none;
+    color: aqua;
+    margin-bottom: 15px;
+    
+}
+
